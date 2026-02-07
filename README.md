@@ -1,7 +1,7 @@
 ## PW Tableau Assignment 
 
 Relevant file:
-- PW_Tableau_Assignment_5.twbx
+- PW_Tableau_Assignment.twbx
 
 How to view:
 1. Download the .twbx file
